@@ -12,6 +12,7 @@ This app provides a unified platform to:
 - Explore **hotels** based on city, rating, and stay duration.
 - Preview offers directly from **Amadeus’ sandbox API**.
 - Simulate bookings for both flights and hotels using **dummy traveler and payment information**.
+- Powered by **Google Gemini** to create a travel itinerary  
 
 Perfect for prototyping travel tech apps, dashboards, or Amadeus API integrations.
 
