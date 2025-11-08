@@ -11,8 +11,8 @@ import os
 #  CONFIGURATION
 # ============================================================
 
-AMADEUS_API_KEY = os.getenv("AMADEUS_API_KEY", "PYCJ0VVSdjFX4FwyEPotNa73xdLysrxp")
-AMADEUS_API_SECRET = os.getenv("AMADEUS_API_SECRET", "tSQ04QnGAPQFeDKk")
+AMADEUS_API_KEY = os.getenv("AMADEUS_API_KEY", "INSERT YOUR OWN")
+AMADEUS_API_SECRET = os.getenv("AMADEUS_API_SECRET", "INSERT YOUR OWN")
 
 amadeus = Client(
     client_id=AMADEUS_API_KEY,

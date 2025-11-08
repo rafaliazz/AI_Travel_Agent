@@ -13,7 +13,7 @@ from amadeuscaller import search_flights as am_search_flights, book_flight as am
 # ==========================
 # 🔑 Keys / Config
 # ==========================
-GOOGLE_API_KEY = "AIzaSyA0mzrtxAZVN1XTlozH-vptwpCEId4U5jA"
+GOOGLE_API_KEY = "INSERT YOUR OWN"
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 # ==========================
