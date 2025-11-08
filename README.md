@@ -81,7 +81,7 @@ Open the project files and replace each placeholder labeled `"INSERT YOUR OWN"` 
 Launch the application by running Streamlit and specifying the path to the `travelagent.py` file:
 
 ```bash
-streamlit run travelagent.py
+streamlit run "travelagent.py"
 ```
 💡Note: Make sure you’re executing this command from a directory where Streamlit is installed and your virtual environment (if any) is active.
 
