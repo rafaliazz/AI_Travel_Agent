@@ -1,6 +1,6 @@
-# ✈️ Travel Planner — Flight & Hotel Booking App (Amadeus API + Streamlit)
+# ✈️ Travel Planner — Flight & Hotel Booking App (Amadeus API + Streamlit + Gemini)
 
-A modern and interactive **travel booking dashboard** built using **Streamlit** and the **Amadeus API**.  
+A modern and interactive **travel booking dashboard** built using **Streamlit**, the **Amadeus API**, and powered by **Google Gemini**.  
 Search, compare, and book flights and hotels seamlessly — all within a single, intuitive interface.
 
 ---
